@@ -1,6 +1,6 @@
 # meld
 
-[+] Meld is like a crunch but isnt .....
+[+] Meld is like crunch but isnt .....
 
 [+] syntax : python [name or any characters] [number or characters]
   
