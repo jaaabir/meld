@@ -2,7 +2,7 @@
 
 [+] Meld is like crunch but isnt .....
 
-[+] syntax : python [name or any characters] [number or characters]
+[+] syntax : python meld.py [name or any characters] [number or characters]
   
 
 [+] it will take the second argument and make a lot of possible combinations and ignore the duplicate values 
