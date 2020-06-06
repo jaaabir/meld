@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import random as r
 import sys
 import os
